@@ -1,3 +1,4 @@
+document.onLoad = Roll();
 function Roll(){
 var winner = document.querySelector("#winner");
 var die1= document.querySelector("#die1");
